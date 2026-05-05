@@ -54,11 +54,11 @@
 
 ---
 
-## 🎥 Preskilet Video
+## 🎥 Video Tutorial - Youtube
 
-| Video Title | Platform | Link |
-|------------|----------|:----:|
-| My Preskilet Profile | Preskilet | [▶️ Watch Here](PASTE_YOUR_PRESKILET_LINK_HERE) |
+| Description | Link |
+|-------------|:----:|
+| Functions and Fibonacci series | [▶️ Watch on YouTube](https://youtu.be/KYUoFoFMv1M) |
 
 ---
 
