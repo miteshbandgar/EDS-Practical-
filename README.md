@@ -45,12 +45,12 @@
 
 ---
 
-[## 🏅 CISCO Certificate
+## 🏆 Certifications & Achievements
 
-| CISCO Certificate | View |
-|:-----------------:|:----:|
-| Python Essentials 1 | [🔗 Open Certificate](PASTE_PYTHON_ESSENTIALS_1_LINK_HERE) |
-| Python Essentials 2 | [🔗 Open Certificate](PASTE_PYTHON_ESSENTIALS_2_LINK_HERE) |
+| Certification Name | View Credential |
+|--------------------|:---------------:|
+| **Python Essentials 1** | [📄 Click here to open PDF](./Python_Essentials_1.pdf) |
+| **Python Essentials 2** | [📄 Click here to open PDF](./Python_Essentials_2.pdf) |
 
 ---
 
