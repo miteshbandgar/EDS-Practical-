@@ -26,7 +26,7 @@
 
 | Video Title | Platform | Link |
 |------------|----------|:----:|
-| My Preskilet Profile | Preskilet | [▶️ Watch Here](PASTE_YOUR_PRESKILET_LINK_HERE) |
+| Functions & Fibonacci | Youtube | [▶️ Watch Here](PASTE_YOUR_PRESKILET_LINK_HERE) |
 
 ---
 
