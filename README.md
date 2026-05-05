@@ -39,9 +39,9 @@
 ### 📂 Practical - 05
 | Sr. No. | Program | File Link |
 |:-------:|---------|:---------:|
-| 01 | Monthly Sales Line Chart | [🐍 Open](./Practical%20-%2005/monthly_sales.py) |
-| 02 | Read Titanic CSV Dataset | [🐍 Open](./Practical%20-%2005/load_dataset.py) |
-| 03 | Titanic EDA Visualizations (Bar, Pie, Hist, Box) | [🐍 Open](./Practical%20-%2005/titanic_graphs.py) |
+| 01 | Monthly Sales Line Chart | [🐍 Open](./Practical%20-%2005/basicgraph.py) |
+| 02 | Read Titanic CSV Dataset | [🐍 Open](./Practical%20-%2005/dataset.py) |
+| 03 | Titanic EDA Visualizations | [🐍 Open](./Practical%20-%2005/grains.py) |
 
 ---
 
