@@ -1,5 +1,5 @@
 ## 🖥️ EDS Lab Assignments
----
+
 ### 📂 Practical - 01
 
 | Sr. No. | Program | File Link |
@@ -48,7 +48,6 @@
 | 02 | Read Titanic CSV Dataset | [🐍 Open](./Practical%20-%2005/dataset.py) |
 | 03 | Titanic EDA Visualizations | [🐍 Open](./Practical%20-%2005/grains.py) |
 
----
 
 ## 🏆 Certifications & Achievements
 
@@ -57,7 +56,6 @@
 | **Python Essentials 1** | [📄 View Certificate](./Python_Essentials_1.pdf) |
 | **Python Essentials 2** | [📄 View Certificate](./Python_Essentials_2.pdf) |
 
----
 
 ## 🎥 Video Tutorial - Youtube
 
