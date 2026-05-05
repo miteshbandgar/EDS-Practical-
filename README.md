@@ -43,6 +43,8 @@
 | 02 | Read Titanic CSV Dataset | [🐍 Open](./Practical%20-%2005/load_dataset.py) |
 | 03 | Titanic EDA Visualizations (Bar, Pie, Hist, Box) | [🐍 Open](./Practical%20-%2005/titanic_graphs.py) |
 
+---
+
 ## 🏅 CISCO Certificate
 
 | CISCO Certificate | View |
