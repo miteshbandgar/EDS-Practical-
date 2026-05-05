@@ -49,8 +49,8 @@
 
 | Certification Name | View Credential |
 |--------------------|:---------------:|
-| **Python Essentials 1** | [📄 Click here to open PDF](./Python_Essentials_1.pdf) |
-| **Python Essentials 2** | [📄 Click here to open PDF](./Python_Essentials_2.pdf) |
+| **Python Essentials 1** | [📄 View Certificate](./Python_Essentials_1.pdf) |
+| **Python Essentials 2** | [📄 View Certificate](./Python_Essentials_2.pdf) |
 
 ---
 
