@@ -1,6 +1,7 @@
 ## 🖥️ EDS Lab Assignments
-
+---
 ### 📂 Practical - 01
+
 | Sr. No. | Program | File Link |
 |:-------:|---------|:---------:|
 | 01 | Digit Range (Square / Sqrt / Cube root) | [🐍 Open](./Practical%20-%2001/digit.py) |
@@ -11,6 +12,7 @@
 | 06 | Reverse Number | [🐍 Open](./Practical%20-%2001/reversenumber.py) |
 
 ### 📂 Practical - 02
+
 | Sr. No. | Program | File Link |
 |:-------:|---------|:---------:|
 | 01 | Find Tallest Captain | [🐍 Open](./Practical%20-%2002/cricket.py) |
@@ -21,6 +23,7 @@
 | 06 | Tuple Operations | [🐍 Open](./Practical%20-%2002/tuple.py) |
 
 ### 📂 Practical - 03
+
 | Sr. No. | Program | File Link |
 |:-------:|---------|:---------:|
 | 01 | Matrix Operations (Sum, Transpose) | [🐍 Open](./Practical%20-%2003/admatrix.py) |
@@ -30,6 +33,7 @@
 | 05 | Statistical Measures (Mean, Median, Std) | [🐍 Open](./Practical%20-%2003/statistical.py) |
 
 ### 📂 Practical - 04
+
 | Sr. No. | Program | File Link |
 |:-------:|---------|:---------:|
 | 01 | Bar Chart Visualization | [🐍 Open](./Practical%20-%2004/barchart.py) |
@@ -37,6 +41,7 @@
 | 03 | Pie Chart Visualization | [🐍 Open](./Practical%20-%2004/piechart.py) |
 
 ### 📂 Practical - 05
+
 | Sr. No. | Program | File Link |
 |:-------:|---------|:---------:|
 | 01 | Monthly Sales Line Chart | [🐍 Open](./Practical%20-%2005/basicgraph.py) |
