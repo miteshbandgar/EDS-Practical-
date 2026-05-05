@@ -42,3 +42,22 @@
 | 01 | Monthly Sales Line Chart | [🐍 Open](./Practical%20-%2005/monthly_sales.py) |
 | 02 | Read Titanic CSV Dataset | [🐍 Open](./Practical%20-%2005/load_dataset.py) |
 | 03 | Titanic EDA Visualizations (Bar, Pie, Hist, Box) | [🐍 Open](./Practical%20-%2005/titanic_graphs.py) |
+
+## 🏅 CISCO Certificate
+
+| CISCO Certificate | View |
+|:-----------------:|:----:|
+| Python Essentials 1 | [🔗 Open Certificate](PASTE_PYTHON_ESSENTIALS_1_LINK_HERE) |
+| Python Essentials 2 | [🔗 Open Certificate](PASTE_PYTHON_ESSENTIALS_2_LINK_HERE) |
+
+---
+
+## 🎥 Preskilet Video
+
+| Video Title | Platform | Link |
+|------------|----------|:----:|
+| My Preskilet Profile | Preskilet | [▶️ Watch Here](PASTE_YOUR_PRESKILET_LINK_HERE) |
+
+---
+
+📌 Repository maintained by **Mitesh Bandgar**
