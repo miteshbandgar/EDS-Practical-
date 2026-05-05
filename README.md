@@ -2,13 +2,6 @@
 
 ---
 
-## 📑 Table of Contents
-- [EDS Lab Assignments](#-eds-lab-assignments)
-- [CISCO Certificate](#-cisco-certificate)
-- [Preskilet Video](#-preskilet-video)
-
----
-
 ## 🖥️ EDS Lab Assignments
 
 | Sr. No. | Practical Title | Description | File Link |
